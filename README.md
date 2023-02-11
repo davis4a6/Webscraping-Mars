@@ -12,13 +12,13 @@ There are 12 months in the dataset that we scraped.
 2. There are 1867 Martian days' worth of data in this dataset.
 
 3. The Average Low Temperature by Martian Month 
-![Alt text](Average%20Low%20Temp%20by%20Martian%20Month.png)
+    ![Alt text](Visuals/Average%20Low%20Temp%20by%20Martian%20Month.png)
 
-Additionally, the coldest and hottest months are as follows:
-![Alt text](MinMaxTemps.PNG)
+    Additionally, the coldest and hottest months are as follows:
+    ![Alt text](Visuals/MinMaxTemps.PNG)
 
 4. The Average Pressure by Martian Month
-![Alt text](Average%20Pressure%20by%20Martian%20Month.png)
+    ![Alt text](Visuals/Average%20Pressure%20by%20Martian%20Month.png)        
 
-Additionally, the minimum and maximum pressure for each month are as follows:
-![Alt text](MinMaxPressure.PNG)
+    Additionally, the minimum and maximum pressure for each month are as follows:
+    ![Alt text](Visuals/MinMaxPressure.PNG)
